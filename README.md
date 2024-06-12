@@ -1,2 +1,2 @@
 # PRIME
-Lecture Attendance and Monitoring Registry (LAMR)
+Lecture Attendance and Monitoring Reader (LAMR)
